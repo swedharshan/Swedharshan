@@ -1,0 +1,24 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Advanced models
+xgboost
+lightgbm
+
+# Optional: for SVR
+scipy
+
+# Optional: Neural Networks
+tensorflow  # or torch
+
+# Optional: Web app
+streamlit
+
+# Misc
+joblib  # for saving/loading models
